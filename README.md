@@ -5,7 +5,7 @@ Une application web interactive pour guider les utilisateurs à travers le proce
 Cet outil transforme un exercice théorique en une expérience guidée, étape par étape, pour vous aider à définir, chiffrer et planifier vos rêves les plus ambitieux.
 
 ![Aperçu de Chronorêves Wizard](./public/Apercudreamlinerapp.png)
-*(Astuce : Faites une belle capture d'écran de votre application, téléchargez-la sur votre dépôt GitHub, et remplacez `URL_DE_VOTRE_SCREENSHOT.png` par son lien !)*
+
 
 ## ✨ Le concept du Dreamlining
 
